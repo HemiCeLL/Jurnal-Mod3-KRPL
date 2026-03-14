@@ -1,0 +1,17 @@
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\bin\Debug\net10.0-windows\Modul3_103022430015.exe
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\bin\Debug\net10.0-windows\Modul3_103022430015.deps.json
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\bin\Debug\net10.0-windows\Modul3_103022430015.runtimeconfig.json
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\bin\Debug\net10.0-windows\Modul3_103022430015.dll
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\bin\Debug\net10.0-windows\Modul3_103022430015.pdb
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.Form1.resources
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.csproj.GenerateResource.cache
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.AssemblyInfoInputs.cache
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.AssemblyInfo.cs
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.csproj.CoreCompileInputs.cache
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.sourcelink.json
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.dll
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\refint\Modul3_103022430015.dll
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.pdb
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\Modul3_103022430015.genruntimeconfig.cache
+E:\Downloads\Modul3_103022430015\Modul3_103022430015\obj\Debug\net10.0-windows\ref\Modul3_103022430015.dll
